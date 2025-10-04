@@ -1,4 +1,4 @@
-# ground-water-pollution
+# ground-water-pollution analysis
 
 This is mainly a data science project on analysis of ground water pollution and water quality index of water in all states of india.
 
